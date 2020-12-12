@@ -23,4 +23,4 @@ What the Program does:
 
 3. You are able to change the color of the box with the following commands.
 
-  r-red, b-blue, y-yellow, space-white, g-green
+    r-red, b-blue, y-yellow, space-white, g-green
